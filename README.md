@@ -1,0 +1,1 @@
+Kod za računanje karakterističnih impedancija (i za njihovo iscrtavanje) i efektivnih dielektričnih konstanti za microstrip diferencijalne vodove.
